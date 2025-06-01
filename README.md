@@ -1,3 +1,12 @@
-# Sunny Financial Group Web
+# Sunny Financial Group Website
 
-This is the official Sunny Financial Group website built with Next.js and deployed on Vercel.
+This is the official frontend for Sunny Financial Group.
+
+## Structure
+
+- `index.html` - Homepage
+- `style.css` - Stylesheet for layout and design
+
+## Contact
+
+For issues or collaboration, contact Jessie at jessie.sunnyfingroup@gmail.com
