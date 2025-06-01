@@ -1,3 +1,3 @@
-# Sunny Financial Website
-This is the official Sunny Financial Next.js website codebase.
+# Sunny Financial Group Web
 
+This is the official Sunny Financial Group website built with Next.js and deployed on Vercel.
