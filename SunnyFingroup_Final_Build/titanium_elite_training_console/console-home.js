@@ -1,0 +1,1 @@
+// Main training console navigation and structure
