@@ -1,0 +1,23 @@
+/* Sunny Financial Group Main Styles */
+body {
+  margin: 0;
+  font-family: 'Segoe UI', Tahoma, Geneva, Verdana, sans-serif;
+  background-color: #f5f5f5;
+  color: #333;
+}
+header {
+  background-color: #FDB813;
+  padding: 20px;
+  text-align: center;
+  color: white;
+}
+section {
+  padding: 40px;
+  text-align: center;
+}
+footer {
+  background-color: #222;
+  color: white;
+  padding: 20px;
+  text-align: center;
+}
